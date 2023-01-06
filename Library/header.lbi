@@ -1,0 +1,76 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div data-ix="fade-in-top-logo-bar" class="header-wrapper">
+  <div class="fixed-logo-bar w-clearfix"><a href="#" data-ix="open-sidecart" class="top-shopping-cart-block w-inline-block">
+    <div class="button top-link-button"><img src="../images/shop car.png" class="top-button-icon"/>
+      <div class="top-button-title">購物清單</div>
+    </div>
+    <div class="top-shopping-cart-title">$000.00</div>
+    </a>
+    
+    <div class="header-social-wrapper"><a href="#" class="header-social-button w-inline-block"><img src="../images/LINE.png" class="header-social-icon"/></a><a href="#" class="header-social-button w-inline-block"><img src="../images/FB.png" class="header-social-icon"/></a></div>
+  </div>
+  <div data-collapse="medium" data-animation="default" data-duration="400" class="navbar w-nav">
+    <div class="container w-container"><a href="../index.html" class="top-logo-link-block w-inline-block"><img src="../images/SS.png" class="logo"/></a>
+      <nav role="navigation" class="nav-menu w-nav-menu"><a href="../index.html" class="nav-link w-nav-link">HOME</a>
+		 <a href="../shop_earrings.html" class="nav-link w-nav-link">SHOP</a>
+		  <a href="../about_us.html" class="nav-link w-nav-link">ABOUT US</a>
+		  <a href="../Contact.html" class="nav-link w-nav-link">CONTACT US</a>
+       
+        <div data-delay="0" class="nav-dropdown w-dropdown">
+ 
+        </div>
+        <div data-delay="0" class="nav-dropdown w-dropdown">
+        
+        </div>
+      </nav>
+      <div class="menu-button w-clearfix w-nav-button">
+        <div class="menu-icon w-icon-nav-menu"></div>
+        <div class="menu-title w-hidden-main">Menu</div>
+      </div>
+      <div class="top-search-wrapper"><a href="#" data-ix="open-search-block" class="button top-search-button w-inline-block"><img src="../images/search.png" alt="" width="20"/>
+        <div class="top-button-title">&nbsp; Search</div>
+        <br>
+        </a></div>
+    </div>
+  </div>
+</div>
+<div data-ix="hide-search-block" class="search-block">
+  <div class="container w-container">
+    <div class="search-form w-form">
+      <form id="wf-form-Search-Form" name="wf-form-Search-Form" data-name="Search Form" class="w-clearfix">
+        <input type="text" class="search-field w-input" maxlength="256" name="Search" data-name="Search" placeholder="Search..." id="Search"/>
+        <a href="#" data-ix="close-search-block" class="button search-button close-search w-inline-block"><img src="../images/X.svg" class="search-button-icon"/></a><a href="/shop/product-overview" class="button search-button w-inline-block"><img src="../images/search.png" class="search-button-icon"/></a>
+      </form>
+      <div class="w-form-done">
+        <div>Thank you! Your submission has been received!</div>
+      </div>
+      <div class="w-form-fail">
+        <div>Oops! Something went wrong while submitting the form.</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div data-ix="hide-sidecart" class="sidecart-block">
+  <div data-ix="hide-sidecart-block" class="sidecart-sideblock">
+    <div class="sidecart-content-block">
+      <div class="sidecart-title">購物清單</div>
+    </div>
+    <div class="sidecart-content-block">
+      <div class="mini-cart-item w-clearfix">
+        <div class="minicart-title-wrapper"><img src="../images/product.jpg" class="mini-cart-thumb"/><a href="../Product.html" class="mini-cart-title">十字架環狀耳環</a></div>
+        <div class="minicart-info-wrapper w-clearfix">
+          <div class="mini-cart-info-title bold">數量：</div>
+          <div class="mini-cart-info-title">1</div>
+          <div class="mini-cart-info-title subtotal">$79</div>
+        </div>
+        <a href="#" class="mini-cart-delete-button w-inline-block"><img src="../images/X.svg" class="cart-close-icon"/></a></div>
+		
+        <a href="#" class="mini-cart-delete-button w-inline-block"><img src="../images/X.svg" class="cart-close-icon"/></a></div>
+      <div class="mini-cart-item">
+        <div class="minicart-info-wrapper w-clearfix">
+          <div class="mini-cart-info-title bold">總額：</div>
+          <div class="mini-cart-info-title subtotal">$79</div>
+        </div>
+      </div>
+	  </div>
+  <div data-ix="close-sidecart" class="sidecart-close-block"></div>
+</div>
